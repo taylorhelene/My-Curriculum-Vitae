@@ -1,37 +1,42 @@
- <h1>**Taylor Chemtai** <h1>
-Software engineer  based in Nairobi, Kenya
-You can use the [editor on GitHub](https://github.com/taylorhelene/My-Curriculum-Vitae/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <h1>Taylor Chemtai</h1>
+_Software engineer  based in Nairobi, Kenya_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](taylorhelene09@gmail.com) / [LinkedIn](https://www.linkedin.com/in/chemtai-taylor-765698188/e)/ [GitHub](https://github.com/taylorhelene) /[Dribble](https://dribbble.com/Taylor_chemtai) / [Behance](https://www.behance.net/taylorhellen)
 
-### Markdown
+<h2>👩🏼‍💻 Technical Experience</h2>
+**Frontend Engineer** @ Yents Bootcamp (Dec 2020 - April 2021)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Blockchain Bootcamp
 
-```markdown
-Syntax highlighted code block
+Extending and maintaining a company-wide design system
+* Building a new frontend component library
+* Technologies used: React-Native, Adobe XD, TypeScript.
 
-# Header 1
-## Header 2
-### Header 3
+**Frontend Mobile Engineer** @ Techxers Limited (February 2020 - August 2020)
 
-- Bulleted
-- List
+UI/UX Design
+* Onboarding Screens
+* Application Landing Pages
+* Application usability testing
+* Technologies used: Java, Adobe XD.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Freelance Developer**(January 2020 - Present)
 
-[Link](url) and ![Image](src)
-```
+* Mobile App development
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+<h2>💬 Languages</h2>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taylorhelene/My-Curriculum-Vitae/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+English: Native
+Swahili: Native
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2>👩🏼‍🎓 Education</h2>
+
+
+Bachelor of Arts in Information Technology
+Jomo Kenyatta University of Agriculture and Technology Kenya - Nairobi, Kenya (2015 - 2019)
+
+
+
