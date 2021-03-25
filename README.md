@@ -4,6 +4,7 @@ _Software engineer  based in Nairobi, Kenya_
 [Email](taylorhelene09@gmail.com) / [LinkedIn](https://www.linkedin.com/in/chemtai-taylor-765698188/e)/ [GitHub](https://github.com/taylorhelene) /[Dribble](https://dribbble.com/Taylor_chemtai) / [Behance](https://www.behance.net/taylorhellen)
 
 <h2>👩🏼‍💻 Technical Experience</h2>
+
 **Frontend Engineer** @ Yents Bootcamp (Dec 2020 - April 2021)
 
 Blockchain Bootcamp
