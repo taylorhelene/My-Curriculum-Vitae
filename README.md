@@ -29,7 +29,7 @@ UI/UX Design
 
 <h2>💬 Languages</h2>
 
-English: Native
+English: Fluent
 Swahili: Native
 
 
