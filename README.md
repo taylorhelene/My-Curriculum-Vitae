@@ -37,7 +37,7 @@ Swahili: Native
 <h2>👩🏼‍🎓 Education</h2>
 
 
-Bachelor of Arts in Information Technology
+Bachelor of Science in Information Technology
 Jomo Kenyatta University of Agriculture and Technology Kenya - Nairobi, Kenya (2015 - 2019)
 
 
