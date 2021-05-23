@@ -11,7 +11,7 @@ Blockchain Bootcamp
 
 Extending and maintaining a company-wide design system
 * Building a new frontend component library
-* Technologies used: React-Native, Adobe XD, TypeScript.
+* Technologies used: React-Native, Adobe XD, JavaScript.
 
 **Frontend Mobile Engineer** @ Techxers Limited (February 2020 - August 2020)
 
